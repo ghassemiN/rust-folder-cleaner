@@ -22,3 +22,7 @@ cargo run -- --path /path/to/folder --days 3
 ```bash
 cargo run -- --path /path/to/folder --days 0 --hours 2 --minutes 30
 ```
+
+### SUGGESTION
+
+To keep temporary folders clean without manual effort, it's better to run this script via a cronjob or a scheduled task.
